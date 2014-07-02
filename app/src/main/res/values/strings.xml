@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RestComm Ventas</string>
+    <string name="title_section1">Inicio</string>
+    <string name="title_section2">Propinas</string>
+    <string name="title_section3">Carta de Vinos</string>
+    <string name="title_section4">Carta de Servicios</string>
+    <string name="title_section5">Reservaciones</string>
+    <string name="title_section6">IP Actual</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">En Espera</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
